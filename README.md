@@ -1,2 +1,2 @@
 # ansible_test
-Testing and running a small ansible playbook on a azure machine through jenkins pipeline
+Testing and running a small ansible-playbook on an azure machine through Jenkins pipeline
