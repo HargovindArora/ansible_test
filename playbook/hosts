@@ -1,0 +1,2 @@
+[ubuntu18]
+20.185.231.8 ansible_python_interpreter=auto
