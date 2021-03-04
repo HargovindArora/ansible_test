@@ -1,9 +1,9 @@
 ---
-- name: Install git
+- name: Install rolldice
   hosts: ubuntu18
   remote_user: root
   tasks:
-    - name: Installing git package
+    - name: Installing rolldice package
       apt:
-        name: git
+        name: rolldice
         state: present
